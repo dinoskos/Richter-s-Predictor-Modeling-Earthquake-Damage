@@ -1,2 +1,2 @@
-# Richter-s-Predictor-Modeling-Earthquake-Damage
+# Richter's Predictor Modeling Earthquake Damage
 Model for machine learning competition hosted by DrivenData
